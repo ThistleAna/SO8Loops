@@ -8,3 +8,5 @@ public class ForLoop { //main class start
         }
     } // main method end
 }// main class end
+
+// write a program to print number 1 to 12 using for loop
